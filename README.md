@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GiorgioRPo/GiorgioRPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Giorgio!
 
-Here are some ideas to get you started:
+**CS & Design @ SUTD - SWE / Game Dev / Cybersecurity Enthusiast - SUTD Undergraduate Merit Scholar**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgio-rpo/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.rpo@gmail.com)
+
+</div>
+
+## What I'm up to
+
+* **B.Eng. CS & Design @ SUTD** — SUTD Undergraduate Merit Scholar
+
+## Featured Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **Fames.com** | Indie game discovery platform with end-to-end RAG pipeline over ~6,200 Steam reviews. Gamified XP system, PWA. | FAISS · OpenAI · React · PWA |
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandaTris&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AnandaTris&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaTris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
